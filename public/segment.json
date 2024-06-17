@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "segment_name": "Single-family homes",
+        "segment_icon": "https://i.ibb.co/YLJ7QMn/single.png",
+        "segment_image": "https://i.ibb.co/WH84HFG/Single-family-homes.jpg"
+    },
+    {
+        "id": 2,
+        "segment_name": "Townhouses",
+        "segment_icon": "https://i.ibb.co/nMS70tz/town.png",
+        "segment_image": "https://i.ibb.co/gdyMpxb/Townhouses.jpg"
+    },
+    
+    {
+        "id": 3,
+        "segment_name": "Apartments",
+        "segment_icon": "https://i.ibb.co/JmwYwWD/apartment.png",
+        "segment_image": "https://i.ibb.co/9Wgw3Xk/Apartments.jpg"
+    },
+    {
+        "id": 4,
+        "segment_name": "Student Housing",
+        "segment_icon": "https://i.ibb.co/LxtsCW6/student.png",
+        "segment_image": "https://i.ibb.co/KDLm7gT/Student-Housing.jpg"
+    },
+    {
+        "id": 5,
+        "segment_name": "Senior living communities",
+        "segment_icon": "https://i.ibb.co/JsqvgYh/senior.png",
+        "segment_image": "https://i.ibb.co/VJpwwRr/Senior-living-communities.jpg"
+    },
+    {
+        "id": 6,
+        "segment_name": "Vacation rentals",
+        "segment_icon": "https://i.ibb.co/8Xmzp60/vacation.png",
+        "segment_image": "https://i.ibb.co/NC3QLWQ/Vacation-rentals.jpg"
+    }
+    
+]
